@@ -48,4 +48,4 @@
 
 ---
 
-🎯 *Em breve: funcionalidade do carrinho finalizada com sucesso!*
+>🎯 *Em breve: funcionalidade do carrinho finalizada com sucesso!*
